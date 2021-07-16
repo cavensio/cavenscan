@@ -1,0 +1,47 @@
+QLabel[block='active'] {
+  background-color: dodgerblue;
+  border: 1px solid #E0E0E0;
+  border-radius: 1px;
+}
+
+QLabel[block='0'] {
+  background-color: #E8E8E8;
+  border: 1px solid #E0E0E0;
+  border-radius: 2px;
+}
+
+QLabel[block='1'] {
+  background-color: #FFFF00;
+  border: 1px solid #DADADA;
+  border-radius: 1px;
+}
+
+QLabel[block='2'] {
+  background-color: #FFBB00;
+  border: 1px solid #DADADA;
+  border-radius: 1px;
+}
+
+QLabel[block='3'] {
+  background-color: #FF7700;
+  border: 1px solid #DADADA;
+  border-radius: 1px;
+}
+
+QLabel[block='4'] {
+  background-color: #FF3300;
+  border: 1px solid #DADADA;
+  border-radius: 1px;
+}
+
+QLabel[block='5'] {
+  background-color: #FF3300;
+  border: 1px solid #DADADA;
+  border-radius: 1px;
+}
+
+QLabel[block='6'] {
+  background-color: #880088;
+  border: 1px solid #DADADA;
+  border-radius: 1px;
+}

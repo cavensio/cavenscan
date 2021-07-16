@@ -1,0 +1,10 @@
+#IntelliJ IDEA
+.idea
+__pycache__
+
+#Code::Blocks
+bin
+obj
+*.cbp
+*.depend
+*.layout
